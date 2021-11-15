@@ -1,4 +1,4 @@
-# Rockrack
+# Rocrack
 Quick use wrapper for hashcat and rockyou.
 
 ## Requirements
